@@ -1,0 +1,20 @@
+nav { 
+    margin: 20px; 
+    padding: 10px;
+    border: 2px solid black;
+}
+nav a { 
+    margin: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+}
+img {
+    text-align: center;
+}
